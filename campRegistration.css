@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.regSession {
+    text-align: center;
+    padding: 10px;
+}
+header {
+    padding: 20px;
+}

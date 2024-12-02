@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+.contentSection {
+    padding: 40px;
+}
+.contentSection p {
+    text-align: justify;
+}
+.contentSection h1 {
+    margin-bottom: 60px;
+}

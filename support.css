@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    background-image: url(support.png);
+    background-size: cover;
+}
+section {
+    padding: 10px;
+    text-align: justify;
+}
+.supportInfo {
+    text-align: center;
+    border: solid 2px white;
+    width: 300px;
+    margin: auto;
+}
+.supportInfo p {
+    font-weight: bold;
+    color: black;
+    font-size: 1.3rem;
+}

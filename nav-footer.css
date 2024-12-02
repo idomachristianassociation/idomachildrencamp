@@ -1,0 +1,93 @@
+/* nav desisn */
+nav {
+    /* background-color: hsl(0, 100%, 50%); */
+    background-color: rgb(5, 7, 5);
+    color: white;
+    
+    padding: 2px 10px;
+}
+
+.navLink {
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+    font-weight: bold;
+    
+}
+.menuLines {
+    height: 6px;
+    width: 25px;
+    background-color: white;
+    color: white;
+}
+.line1 {
+    margin-bottom: 4px;
+}
+.menuBtn {
+    background-color: hsl(0, 100%, 50%);
+    border: none;
+}
+
+.brand {
+    /* color: white; */
+    color: rgb(0, 172, 0);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 13px;
+    font-weight: bold;
+}
+.brand:hover {
+    color: white;
+}
+
+/* foooter design */
+footer {
+    text-align: center;
+    background-color: rgb(5, 7, 5);
+    color: hsl(0, 0%, 100%);
+    padding: 25px;
+    padding-bottom: 5px;
+}
+footer h5 {
+    color: green;
+}
+.footerFlex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.exploreDiv {
+    text-align: left;
+}
+.exploreDiv li {
+    list-style: none;
+}
+.exploreDiv li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+}
+.contactDiv {
+    text-align: justify;
+}
+.contactDiv li {
+    list-style: none;
+}
+.contactDiv li a {
+    text-decoration: none;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+}
+footer p {
+    color: hsl(0, 0%, 70%);
+    margin-bottom: 5px; 
+    font-size: 13px;
+}
+
+footer p a {
+    color: hsl(0, 0%, 70%); 
+}
+nav li {
+    padding: 20px;
+}
